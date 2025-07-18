@@ -43,11 +43,11 @@ export function About() {
           >
             <h2 className="text-4xl font-bold">SOBRE</h2>
             <p>
-              Until one has loved an animal, a part of one&apos;s soul remains
-              unawakened. We believe in it and we believe in easy access to
-              things that are good for our mind, body and spirit. With a clever
-              offering, superb support and a secure checkout you&apos;re in good
-              hands.
+              Até que alguém ame um animal, uma parte da sua alma permanece
+              apagada. Acreditamos nisso e acreditamos no fácil acesso a coisas
+              que são boas para a nossa mente, corpo e espírito. Com uma oferta
+              inteligente, suporte excelente e um checkout seguro, você está em
+              boas mãos.
             </p>
 
             <ul className="space-y-4">
