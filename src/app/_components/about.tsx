@@ -43,10 +43,10 @@ export function About() {
           >
             <h2 className="text-4xl font-bold">SOBRE</h2>
             <p>
-              Until one has loved an animal, a part of one's soul remains
+              Until one has loved an animal, a part of one&apos;s soul remains
               unawakened. We believe in it and we believe in easy access to
               things that are good for our mind, body and spirit. With a clever
-              offering, superb support and a secure checkout you're in good
+              offering, superb support and a secure checkout you&apos;re in good
               hands.
             </p>
 
@@ -69,6 +69,7 @@ export function About() {
               <a
                 href={`https://wa.me/55119999999999?text=Oi, vim pelo site Pet Shop Dev`}
                 target="_blank"
+                rel="noreferrer"
                 className="bg-[#E84C3D] text-white flex items-center justify-center w-fit gap-2 px-4 py-2 rounded-md"
               >
                 <WhatsappLogoIcon className="w-5 h-5 text-white" />
@@ -79,6 +80,7 @@ export function About() {
                 href={`https://maps.app.goo.gl/HP65t3h2HtT4MStw5`}
                 target="_blank"
                 className="flex items-center justify-center w-fit gap-2 px-4 py-2 rounded-md"
+                rel="noreferrer"
               >
                 <MapPin className="w-5 h-5 text-black" />
                 Endereço da Loja

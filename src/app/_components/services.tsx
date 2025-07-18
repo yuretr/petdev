@@ -109,6 +109,7 @@ export function Services() {
                       <a
                         href={`https://wa.me/55119999999999?text=Oi, vim pelo site Pet Shop Dev, gostaria de saber mais sobre ${item.title}`}
                         target="_blank"
+                        rel="noreferrer"
                         className="flex items-center justify-center gap-2 hover:bg-green-500 px-4 py-1 rounded-md duration-300"
                       >
                         <WhatsappLogoIcon className="w-5 h-5" />

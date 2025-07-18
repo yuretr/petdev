@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "export": "next export"
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.1.10",

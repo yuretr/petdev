@@ -60,6 +60,7 @@ export function Footer() {
             <a
               href={`https://wa.me/55119999999999?text=Oi, vim pelo site Pet Shop Dev`}
               target="_blank"
+              rel="noreferrer"
               className="bg-green-500 px-4 py-2 rounded-md"
             >
               Contato via WhatsApp
